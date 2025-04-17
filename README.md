@@ -35,11 +35,11 @@ The dashboard presents a comprehensive snapshot of:
 2. Use the slicers on the left to filter data based on your needs.
 3. Analyze trends and compare performance using the visual charts.
 
-## Requirements
+## Requirementsd
 
 - Microsoft Excel 2016 or later (for full functionality of slicers and interactive charts).
 
-## Screenshot
+##Vindra_store_Analysis
 
 
 ![Screenshot 2025-04-17 123738](https://github.com/user-attachments/assets/26176e8f-6bea-4448-a4a0-28127ad3f14c)
